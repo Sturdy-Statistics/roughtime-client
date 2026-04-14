@@ -6,6 +6,7 @@
 
 (def server-names
   ["TXRyan"
+   "TXRyan-goog"
    "Cloudflare"
    "Cloudflare-goog"
    "int08h"
