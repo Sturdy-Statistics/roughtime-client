@@ -1,7 +1,7 @@
 {:paths ["src" "resources"]
  :deps {com.taoensso/truss          {:mvn/version "2.2.0"}
         org.babashka/cli            {:mvn/version "0.8.66"}
-        com.sturdystats/roughtime-protocol {:mvn/version "0.2.0"}}
+        com.sturdystats/roughtime-protocol {:mvn/version "0.2.1"}}
 
  :aliases {:run
            {:main-opts ["-m" "roughtime-client.core"]}
