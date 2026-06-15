@@ -5,6 +5,8 @@ It crafts a request, verifies the response, and prints the verified time and ske
 
 While this may be used as a CLI client, its primary purpose is to demonstrate how to make Roughtime requests in client applications.
 
+<video src="./examples/out.mp4" autoplay loop muted playsinline width="600"></video>
+
 ## Quick start
 
 Requires the Clojure CLI (`clj` / `clojure`).
