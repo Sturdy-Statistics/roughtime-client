@@ -5,7 +5,7 @@ It crafts a request, verifies the response, and prints the verified time and ske
 
 While this may be used as a CLI client, its primary purpose is to demonstrate how to make Roughtime requests in client applications.
 
-<img src="./out.gif" alt="Terminal Demo" width="800">
+<img src="./examples/out.gif" alt="Terminal Demo" width="800">
 
 ## Quick start
 
